@@ -1,0 +1,4 @@
+safe: true
+exclude: Makefile
+lsi: true
+pygments: true

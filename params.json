@@ -1,1 +1,6 @@
-{"body":"## Open HackSpace Stockholm\r\n\r\nTest site.","google":"","note":"Don't delete this file! It's used internally to help with page regeneration.","name":"Open HackSpace Stockholm","tagline":""}
+{ body: '## Open HackSpace Stockholm\r\n\r\nTest site.',
+  google: '',
+  note: 'Don\'t delete this file! It\'s used internally to help with page regeneration.',
+  name: 'Open HackSpace Stockholm',
+  tagline: '' 
+}
