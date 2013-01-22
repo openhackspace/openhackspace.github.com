@@ -10,3 +10,6 @@ start:
 	$(JEKYLL)
 stop:
 	killall ruby
+
+post:
+	touch  "_posts/`date +"%Y-%m-%d-index.md"`"
