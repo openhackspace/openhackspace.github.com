@@ -15,6 +15,12 @@ mera.
 
 ## Nyheter
 
+### Möte 27 jan
+
+* Ambisonic Toolkit för SuperCollider
+
+[Läs mer...](2013/02/21)
+
 ### Möte 30 jan
 
 * Introduktion till Faust
