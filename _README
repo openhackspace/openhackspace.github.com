@@ -8,3 +8,5 @@ are.
 To test locally, do
 
     make start
+
+then view the pages on http://localhost:4000/.
