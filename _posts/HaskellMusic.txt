@@ -1,0 +1,12 @@
+
+Hans Höglund: Algorithmic composition in Haskell
+
+A workshop providing an introduction to functional programming language and algorithmic composition. I will show basics of Haskell programming along with examples of algorithmic composition from my own work.
+
+* Music representation: phrasing, articulation, part structure
+* Lazy data structures: infinite melodies, rhythms and other sequences etc
+* Time manipulation: stretching, compressing, cutting, reversing
+* Pitch manipulation: transposition, inversion, modal alterations
+* Filtering and folding: removing notes, transforming selected notes etc
+
+We will use the Haskell Music suite (a set of Haskell libraries written by me) to generate MIDI, OSC and MusicXML.

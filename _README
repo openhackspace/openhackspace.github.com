@@ -1,9 +1,9 @@
 
 Site generated with Jekyll.
 
-Briefly, Jekyll is run both locally on the server, and transforms all contents in this folder,
-except file starting with '_' and places it in _site. Note that _site is not pushed, the sources
-are.
+Briefly, Jekyll is run on the server, and transforms all contents in this folder,
+except file starting with '_' and places it in _site. Note that _site is not
+pushed, only the sources are.
 
 To test locally, do
 

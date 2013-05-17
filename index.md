@@ -15,7 +15,13 @@ mera.
 
 ## Nyheter
 
-### Möte 27 jan
+### Möte 22 maj
+
+* Intro till Haskell
+
+[Läs mer...](2013/05/22)
+
+### Möte 27 feb
 
 * Ambisonic Toolkit för SuperCollider
 
